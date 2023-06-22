@@ -1,0 +1,38 @@
+[
+    {
+        "average_speed": 12,
+        "maximum_speed": 24,
+        "traveled_distance": 3.10,
+        "sprint": 2,
+        "average_heart_rate": 130,
+        "time_played": 60,
+        "role": "Portero"
+    },
+    {
+        "average_speed": 15,
+        "maximum_speed": 31,
+        "traveled_distance": 6.22,
+        "sprint": 3,
+        "average_heart_rate": 150,
+        "time_played": 60,
+        "role": "Defensa"
+    },
+    {
+        "average_speed": 15,
+        "maximum_speed": 35,
+        "traveled_distance": 5.97,
+        "sprint": 4,
+        "average_heart_rate": 180,
+        "time_played": 60,
+        "role": "Volante"
+    },
+    {
+        "average_speed": 15,
+        "maximum_speed": 35,
+        "traveled_distance": 6,
+        "sprint": 7,
+        "average_heart_rate": 250,
+        "time_played": 60,
+        "role": "Delantero"
+    }
+]
